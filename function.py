@@ -1,5 +1,6 @@
 
 import requests
+from datetime import datetime
 
 def get_corona():
     print("Fetching Corona Stats...")
